@@ -1,2 +1,2 @@
 # JavaChatApplication
-This is a simple chat application which utilize Java Sockets.
+This is a simple chat application which utilizes Java Sockets.
