@@ -5,15 +5,8 @@
  */
 package chat.application;
 
-/**
- *
- * @author ujash
- */
 public class ChatApplication {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         // TODO code application logic here
     }
